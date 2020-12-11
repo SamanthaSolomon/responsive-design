@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap');
+
+header{
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 5px;
+}
+
+ul{
+   list-style-type: none;
+}
+
+nav ul li{
+   display: inline;
+   padding-right: 18px; 
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 25px;
+    color: orange;
+    text-align: center;
+}
+
+h2{
+    background-color: black;
+    color: orange;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 5px;
+}
+
+span{
+    color: tomato;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.green{
+    background-color: mediumseagreen;
+    color: white;
+    font-weight: 300;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.red{
+    background-color: tomato;
+    color: white;
+    font-weight: 300;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.blue{
+    background-color: dodgerblue;
+    color: white;
+    font-weight: 300;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.top{
+    position: relative;
+    right: 40px;
+}
+
+.middle{
+    position: relative;
+    right: 40px;
+}
+
+.last{
+    position: relative;
+    right: 40px;
+}
+
